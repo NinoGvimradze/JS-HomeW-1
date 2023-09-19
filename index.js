@@ -5,4 +5,10 @@ else{console.log("false")}
 
 let box = "mariam" ;
 if(box === "mariam"){console.log("true")}
-else{console.log("false")}
+else{console.log("false")};
+
+let content = "mariam";
+let answer;
+switch(content){case"nino": answer ="false";
+                case"mariam": answer="true"}
+console.log('{true}.')
